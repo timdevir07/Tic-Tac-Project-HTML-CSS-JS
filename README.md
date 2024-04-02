@@ -1,1 +1,1 @@
-https://timdevir07.github.io/Tic-Tac-Project-HTML-CSS-JS-/
+https://timdevir07.github.io/Tic-Tac-Project-HTML-CSS-JS/
